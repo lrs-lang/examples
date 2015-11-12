@@ -1,0 +1,6 @@
+= lrs examples
+
+This repository contains an unorganized collection of lrs examples.
+
+WARNING: Most of these examples have no description. You'll have to read the
+source code to understand what they do.
